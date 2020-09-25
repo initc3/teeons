@@ -11,4 +11,4 @@ Project to explore reproducible enclave builds, in the context of TEEs (Trusted 
 * Interesting comments on Nix: https://www.reddit.com/r/rust/comments/afscgo/ripgrep_0100_is_reproducible_in_debian/ee1965s/
 * Tor blog: [Deterministic Builds Part One: Cyberwar and Global Compromise](https://blog.torproject.org/deterministic-builds-part-one-cyberwar-and-global-compromise)
 * Tor blog: [Deterministic Builds Part Two: Technical Details](https://blog.torproject.org/deterministic-builds-part-two-technical-details)
-* Trezor: [Deterministic firmware build](https://wiki.trezor.io/Developers_guide:Deterministic_firmware_build) -- they use nix, see their [build-docker.sh](https://github.com/trezor/trezor-firmware/blob/master/build-docker.sh).
+* Trezor: [Deterministic firmware build](https://wiki.trezor.io/Developers_guide:Deterministic_firmware_build) -- they use nix, see their [build-docker.sh](https://github.com/trezor/trezor-firmware/blob/master/build-docker.sh)
