@@ -15,5 +15,6 @@ Project to explore reproducible enclave builds, in the context of TEEs (Trusted 
 * [nix.dev](https://nix.dev/index.html)
   > An opinionated guide for developers getting things done using the Nix ecosystem.
 * [Nix + Bazel = fully reproducible, incremental builds](https://www.tweag.io/blog/2018-03-15-bazel-nix/)
+* [Implicit Dependencies in Build Systems](https://www.tweag.io/blog/2020-09-16-implicit-build-dependencies/)
 * [Managing Rust Dependencies with Nix, Part I](https://hadean.com/blog/managing-rust-dependencies-with-nix-part-i/)
 * [Managing Rust Dependencies with Nix, Part II](https://hadean.com/blog/managing-rust-dependencies-with-nix-part-ii/)
