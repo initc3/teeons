@@ -19,3 +19,7 @@ Project to explore reproducible enclave builds, in the context of TEEs (Trusted 
 * [Managing Rust Dependencies with Nix, Part I](https://hadean.com/blog/managing-rust-dependencies-with-nix-part-i/)
 * [Managing Rust Dependencies with Nix, Part II](https://hadean.com/blog/managing-rust-dependencies-with-nix-part-ii/)
 * [Rust in nixpkgs docs](https://nixos.org/manual/nixpkgs/stable/#rust)
+
+### Nix
+* [Nix Package Manager Guide](https://nixos.org/nix/manual/)
+* [Chapter 18. Verifying Build Reproducibility with diff-hook](https://nixos.org/manual/nix/stable/#chap-diff-hook)
