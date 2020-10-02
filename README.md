@@ -23,3 +23,4 @@ Project to explore reproducible enclave builds, in the context of TEEs (Trusted 
 ### Nix
 * [Nix Package Manager Guide](https://nixos.org/nix/manual/)
 * [Chapter 18. Verifying Build Reproducibility with diff-hook](https://nixos.org/manual/nix/stable/#chap-diff-hook)
+* https://christine.website/blog/how-i-start-nix-2020-03-08
