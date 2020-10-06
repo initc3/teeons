@@ -21,9 +21,9 @@ Project to explore reproducible enclave builds, in the context of TEEs (Trusted 
 From https://christine.website/blog/i-was-wrong-about-nix-2020-02-10:
 
 > As far as getting started with Nix, I suggest following these posts:
-> * Nix Pills: https://nixos.org/nixos/nix-pills/
-> * Nix Shorts: https://github.com/justinwoo/nix-shorts
-> * NixOS: For Developers: https://myme.no/posts/2020-01-26-nixos-for-development.html
+* Nix Pills: https://nixos.org/nixos/nix-pills/
+* Nix Shorts: https://github.com/justinwoo/nix-shorts
+* NixOS: For Developers: https://myme.no/posts/2020-01-26-nixos-for-development.html
 
 * [nix.dev](https://nix.dev/index.html)
   > An opinionated guide for developers getting things done using the Nix ecosystem.
