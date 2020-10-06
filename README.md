@@ -16,10 +16,21 @@ Project to explore reproducible enclave builds, in the context of TEEs (Trusted 
 ### Nix
 * Nix: https://github.com/NixOS/nix and https://nixos.org/nix/
 * [Nix Package Manager Guide](https://nixos.org/nix/manual/)
-* [Chapter 18. Verifying Build Reproducibility with diff-hook](https://nixos.org/manual/nix/stable/#chap-diff-hook)
-* Trezor: [Deterministic firmware build](https://wiki.trezor.io/Developers_guide:Deterministic_firmware_build) -- they use nix, see their [build-docker.sh](https://github.com/trezor/trezor-firmware/blob/master/build-docker.sh)
+
+#### Getting Started
+From https://christine.website/blog/i-was-wrong-about-nix-2020-02-10:
+
+> As far as getting started with Nix, I suggest following these posts:
+> * Nix Pills: https://nixos.org/nixos/nix-pills/
+> * Nix Shorts: https://github.com/justinwoo/nix-shorts
+> * NixOS: For Developers: https://myme.no/posts/2020-01-26-nixos-for-development.html
+
 * [nix.dev](https://nix.dev/index.html)
   > An opinionated guide for developers getting things done using the Nix ecosystem.
+
+#### misc
+* [Chapter 18. Verifying Build Reproducibility with diff-hook](https://nixos.org/manual/nix/stable/#chap-diff-hook)
+* Trezor: [Deterministic firmware build](https://wiki.trezor.io/Developers_guide:Deterministic_firmware_build) -- they use nix, see their [build-docker.sh](https://github.com/trezor/trezor-firmware/blob/master/build-docker.sh)
 * Interesting comments on Nix: https://www.reddit.com/r/rust/comments/afscgo/ripgrep_0100_is_reproducible_in_debian/ee1965s/
 
 #### nix + rust
