@@ -31,6 +31,8 @@ From https://christine.website/blog/i-was-wrong-about-nix-2020-02-10:
 * [Chapter 18. Verifying Build Reproducibility with diff-hook](https://nixos.org/manual/nix/stable/#chap-diff-hook)
 * Trezor: [Deterministic firmware build](https://wiki.trezor.io/Developers_guide:Deterministic_firmware_build) -- they use nix, see their [build-docker.sh](https://github.com/trezor/trezor-firmware/blob/master/build-docker.sh)
 * Interesting comments on Nix: https://www.reddit.com/r/rust/comments/afscgo/ripgrep_0100_is_reproducible_in_debian/ee1965s/
+* https://planet.nixos.org/
+* https://weekly.nixos.org/
 
 #### nix + rust
 * [Rust in nixpkgs docs](https://nixos.org/manual/nixpkgs/stable/#rust)
