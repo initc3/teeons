@@ -41,6 +41,9 @@ From https://christine.website/blog/i-was-wrong-about-nix-2020-02-10:
 * [Managing Rust Dependencies with Nix, Part I](https://hadean.com/blog/managing-rust-dependencies-with-nix-part-i/)
 * [Managing Rust Dependencies with Nix, Part II](https://hadean.com/blog/managing-rust-dependencies-with-nix-part-ii/)
 
+#### Nix Flakes
+https://www.tweag.io/blog/2020-05-25-flakes/
+
 #### Nix Roots
 * Dolstra, E., de Jonge, M. and Visser, E., [Nix: A Safe and Policy-Free System for Software Deployment](https://nixos.org/~eelco/pubs/nspfssd-lisa2004-final.pdf), In Damon, L. (Ed.), [18th Large Installation System Administration Conference (LISA '04)](http://www.usenix.org/events/lisa04/), pages 79–92, Atlanta, Georgia, USA. USENIX, November 2004.
 * Prins, P., Suresh, J. and Dolstra, E., [Nix fixes dependency hell on all Linux distributions](https://www.linux.com/news/nix-fixes-dependency-hell-all-linux-distributions), [linux.com](https://www.linux.com/), December 22, 2008
