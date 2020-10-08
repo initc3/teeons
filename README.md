@@ -33,6 +33,7 @@ From https://christine.website/blog/i-was-wrong-about-nix-2020-02-10:
 * Interesting comments on Nix: https://www.reddit.com/r/rust/comments/afscgo/ripgrep_0100_is_reproducible_in_debian/ee1965s/
 * https://planet.nixos.org/
 * https://weekly.nixos.org/
+* Talk by Brian McKenna (contributor to Nix, nixpkgs and HNix): [Functional programming and Nix for reproducible, immutable infrastructure](https://youtu.be/mKXLAbrKrno)
 
 #### nix + rust
 * [Rust in nixpkgs docs](https://nixos.org/manual/nixpkgs/stable/#rust)
