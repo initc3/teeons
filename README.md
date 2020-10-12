@@ -42,6 +42,9 @@ From https://christine.website/blog/i-was-wrong-about-nix-2020-02-10:
 * [Managing Rust Dependencies with Nix, Part I](https://hadean.com/blog/managing-rust-dependencies-with-nix-part-i/)
 * [Managing Rust Dependencies with Nix, Part II](https://hadean.com/blog/managing-rust-dependencies-with-nix-part-ii/)
 
+#### Nix vs Linux Standard Base
+https://nixos.wiki/wiki/Nix_vs._Linux_Standard_Base
+
 #### Nix Flakes
 https://www.tweag.io/blog/2020-05-25-flakes/
 
