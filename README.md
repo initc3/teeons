@@ -26,6 +26,12 @@ From https://christine.website/blog/i-was-wrong-about-nix-2020-02-10:
 
 * [nix.dev](https://nix.dev/index.html)
   > An opinionated guide for developers getting things done using the Nix ecosystem.
+  
+#### Getting Help
+https://nixos.org/community.html
+
+* freenode: https://webchat.freenode.net/#nixos
+* discourse: https://discourse.nixos.org/
 
 #### misc
 * [Chapter 18. Verifying Build Reproducibility with diff-hook](https://nixos.org/manual/nix/stable/#chap-diff-hook)
