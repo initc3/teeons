@@ -65,3 +65,6 @@ Docker images with Nix:
 * https://github.com/nix-community/docker-nixpkgs
 
 wiki: https://nixos.wiki/wiki/Docker
+
+### SGX
+https://www.phoronix.com/scan.php?page=news_item&px=GNU-Assembler-LVI-Options
