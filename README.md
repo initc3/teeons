@@ -51,4 +51,17 @@ https://www.tweag.io/blog/2020-05-25-flakes/
 #### Nix Roots
 * Dolstra, E., de Jonge, M. and Visser, E., [Nix: A Safe and Policy-Free System for Software Deployment](https://nixos.org/~eelco/pubs/nspfssd-lisa2004-final.pdf), In Damon, L. (Ed.), [18th Large Installation System Administration Conference (LISA '04)](http://www.usenix.org/events/lisa04/), pages 79–92, Atlanta, Georgia, USA. USENIX, November 2004.
 * Prins, P., Suresh, J. and Dolstra, E., [Nix fixes dependency hell on all Linux distributions](https://www.linux.com/news/nix-fixes-dependency-hell-all-linux-distributions), [linux.com](https://www.linux.com/), December 22, 2008
-* Dolstra, E., [The Purely Functional SoftwareDeployment Model](https://edolstra.github.io/pubs/phd-thesis.pdf), PhD thesis, Faculty of Science, Utrecht, The Netherlands. January 2006. 
+* Dolstra, E., [The Purely Functional SoftwareDeployment Model](https://edolstra.github.io/pubs/phd-thesis.pdf), PhD thesis, Faculty of Science, Utrecht, The Netherlands. January 2006.
+
+#### nix + docker
+There are different ways to use both docker and nix. Mainly 2 approaches, as far as I know:
+
+* Nix all-the-way: build docker images with nix.
+* Use Nix in a docker container, such that Nix is used to set build dependencies, and to be the basis for the build environment.
+
+Docker images with Nix:
+* https://github.com/NixOS/docker
+* https://github.com/LnL7/nix-docker
+* https://github.com/nix-community/docker-nixpkgs
+
+wiki: https://nixos.wiki/wiki/Docker
