@@ -72,5 +72,10 @@ Docker images with Nix:
 
 wiki: https://nixos.wiki/wiki/Docker
 
+**nixery**
+> Container registry which transparently builds images using the Nix package manager
+* https://nixery.dev/
+* https://github.com/google/nixery
+
 ### SGX
 https://www.phoronix.com/scan.php?page=news_item&px=GNU-Assembler-LVI-Options
