@@ -47,6 +47,7 @@ https://nixos.org/community.html
 * Excellent "Hello World!": https://christine.website/blog/how-i-start-nix-2020-03-08
 * [Managing Rust Dependencies with Nix, Part I](https://hadean.com/blog/managing-rust-dependencies-with-nix-part-i/)
 * [Managing Rust Dependencies with Nix, Part II](https://hadean.com/blog/managing-rust-dependencies-with-nix-part-ii/)
+* [Packaging (Nightly) Rust Application with Nix](https://www.breakds.org/post/build-rust-package/)
 
 #### Nix vs Linux Standard Base
 https://nixos.wiki/wiki/Nix_vs._Linux_Standard_Base
