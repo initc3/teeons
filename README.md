@@ -94,3 +94,7 @@ github: https://github.com/ibr-ds/EActors
 paper: https://www.ibr.cs.tu-bs.de/users/sartakov/papers/sartakov18eactors.pdf
 talk: https://youtu.be/eigtc7oCxWk
 slides: https://archive.fosdem.org/2020/schedule/event/eactors/attachments/slides/4113/export/events/attachments/eactors/slides/4113/eactors.pdf
+
+### Companies/Services
+SCONE: https://scontain.com/
+> We enable Confidential computing of containers and host programs using Intel SGX.
