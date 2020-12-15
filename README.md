@@ -86,7 +86,12 @@ https://www.phoronix.com/scan.php?page=news_item&px=GNU-Assembler-LVI-Options
 #### Remote Attestation aka "RA"
 * https://github.com/intel/sgx-ra-sample
 * https://github.com/cloud-security-research/sgx-ra-tls
-* sawtooth: https://sawtooth.hyperledger.org/docs/core/releases/latest/sysadmin_guide/configure_sgx.html
+
+##### Sawtooth PoET
+> The Sawtooth PoET consensus engine implements a CFT (Crash Fault Tolerant) variant of PoET which does not use a TEE. A future version of the consensus engine which also implements full BFT (Byzantine Fault Tolerant) features using an SGX enclave is in development.
+
+* https://github.com/hyperledger/sawtooth-poet
+* https://sawtooth.hyperledger.org/docs/core/releases/latest/sysadmin_guide/configure_sgx.html
 
 
 ### Frameworks
