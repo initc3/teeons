@@ -83,16 +83,27 @@ wiki: https://nixos.wiki/wiki/Docker
 
 https://www.phoronix.com/scan.php?page=news_item&px=GNU-Assembler-LVI-Options
 
+[Three Paper Thursday: What’s Intel SGX Good For?](https://www.lightbluetouchpaper.org/2020/05/07/three-paper-thursday-whats-intel-sgx-good-for/)
+
 #### Remote Attestation aka "RA"
 * https://github.com/intel/sgx-ra-sample
 * https://github.com/cloud-security-research/sgx-ra-tls
 
-##### Sawtooth PoET
+**Robust Round Robin / Sybil Attack Prevention**
+https://arxiv.org/pdf/1804.07391.pdf
+
+##### PoET
+See discussion on PoET in 
+[Three Paper Thursday: What’s Intel SGX Good For?](https://www.lightbluetouchpaper.org/2020/05/07/three-paper-thursday-whats-intel-sgx-good-for/).
+
+**Sawtooth PoET**
 > The Sawtooth PoET consensus engine implements a CFT (Crash Fault Tolerant) variant of PoET which does not use a TEE. A future version of the consensus engine which also implements full BFT (Byzantine Fault Tolerant) features using an SGX enclave is in development.
 
 * https://github.com/hyperledger/sawtooth-poet
 * https://sawtooth.hyperledger.org/docs/core/releases/latest/sysadmin_guide/configure_sgx.html
 
+* https://blockonomi.com/proof-of-elapsed-time-consensus/
+* https://bitcoinexchangeguide.com/intels-poet-proof-of-elapsed-time-blockchain-consensus-algorithm/
 
 ### Frameworks
 #### EActors
