@@ -86,6 +86,7 @@ https://www.phoronix.com/scan.php?page=news_item&px=GNU-Assembler-LVI-Options
 #### Remote Attestation aka "RA"
 * https://github.com/intel/sgx-ra-sample
 * https://github.com/cloud-security-research/sgx-ra-tls
+* sawtooth: https://sawtooth.hyperledger.org/docs/core/releases/latest/sysadmin_guide/configure_sgx.html
 
 
 ### Frameworks
