@@ -84,6 +84,16 @@ wiki: https://nixos.wiki/wiki/Docker
 https://www.phoronix.com/scan.php?page=news_item&px=GNU-Assembler-LVI-Options
 
 [Three Paper Thursday: What’s Intel SGX Good For?](https://www.lightbluetouchpaper.org/2020/05/07/three-paper-thursday-whats-intel-sgx-good-for/)
+Interesting blog post about What's Intel SGX Good For? https://www.lightbluetouchpaper.org/2020/05/07/three-paper-thursday-whats-intel-sgx-good-for/
+
+Regarding PoET:
+> Unfortunately, this proposal suffers from a critical security economics issue: node maintainers here have a strong incentive to break into their own SGX chips. If an adversary managed to compromise their SGX, they could win the leader election at every round by setting the timeout to 0. The more valuable the network, the stronger the incentive to compromise your own platform.
+
+**Robust Round Robin & sybil attack prevention**
+Another approach is discussed: *Efficient Blockchain Consensus with Robust Round Robin* which relies on Remote Attestation for establishing identities, which are then used to form a set of candidates from which a randomly selected node will get to broadcast the next block ... The paper is at https://arxiv.org/pdf/1804.07391.pdf
+
+Another use case discussed is EnclaveDB (https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8418608)
+
 
 #### Remote Attestation aka "RA"
 * https://github.com/intel/sgx-ra-sample
