@@ -125,6 +125,7 @@ See discussion on PoET in
 * https://lviattack.eu/
 * https://www.plundervolt.com/ -- https://github.com/KitMurdock/plundervolt
 * https://github.com/bitdefender/lvi-lfb-attack-poc
+* https://arstechnica.com/information-technology/2019/12/scientists-pluck-crypto-keys-from-intels-sgx-by-tweaking-cpu-voltage
 
 ##### Frameworks
 * https://github.com/jovanbulck/sgx-step
