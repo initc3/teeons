@@ -115,9 +115,11 @@ See discussion on PoET in
 * https://blockonomi.com/proof-of-elapsed-time-consensus/
 * https://bitcoinexchangeguide.com/intels-poet-proof-of-elapsed-time-blockchain-consensus-algorithm/
 
-#### SGX Problems
+#### SGX Problems & Limitations
 https://medium.com/@maniacbolts/signal-increases-their-reliance-on-sgx-f46378f336d3
 https://arxiv.org/abs/2006.13353
+https://signal.org/blog/private-contact-discovery/
+https://arstechnica.com/information-technology/2020/06/new-exploits-plunder-crypto-keys-and-more-from-intels-ultrasecure-sgx/
 
 
 ### Frameworks
