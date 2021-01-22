@@ -115,6 +115,10 @@ See discussion on PoET in
 * https://blockonomi.com/proof-of-elapsed-time-consensus/
 * https://bitcoinexchangeguide.com/intels-poet-proof-of-elapsed-time-blockchain-consensus-algorithm/
 
+#### SGX Problems
+https://medium.com/@maniacbolts/signal-increases-their-reliance-on-sgx-f46378f336d3
+
+
 ### Frameworks
 #### EActors
 * github: https://github.com/ibr-ds/EActors
