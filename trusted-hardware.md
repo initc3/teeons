@@ -9,6 +9,10 @@ Many of the projects listed below are taken from
 [Intel SGX Explained](https://eprint.iacr.org/2016/086/20170221:054353) by
 _Victor Costan and Srinivas Devadas_.
 
+## Resources
+* [Open Source Enclaves Workshop](https://keystone-enclave.org/open-source-enclaves-workshop/)
+
+
 ## Intel SGX
 https://en.wikipedia.org/wiki/Software_Guard_Extensions
 
