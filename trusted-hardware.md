@@ -20,6 +20,7 @@ https://en.wikipedia.org/wiki/Software_Guard_Extensions
 * **Intel SGX Explained** ([pdf](https://eprint.iacr.org/eprint-bin/getfile.pl?entry=2016/086&version=20170221:054353&file=086.pdf)) -- https://eprint.iacr.org/2016/086/20170221:054353 
 * https://www.unboundtech.com/wp-content/uploads/2020/09/security-of-intelsgx-key-protection-data-privacy-apps.pdf
 * https://www.researchgate.net/publication/342833256_Towards_Formalization_of_Enhanced_Privacy_ID_EPID-based_Remote_Attestation_in_Intel_SG
+* [USENIX ATC '19 - Secured Routines: Language-based Construction of Trusted Execution Environments](https://youtu.be/Gl7ml_xTk94)
 
 ### Attacks
 * **A Survey of Published Attacks on Intel SGX** ([pdf](https://arxiv.org/pdf/2006.13598.pdf))-- https://arxiv.org/abs/2006.13598
