@@ -16,6 +16,12 @@ _Victor Costan and Srinivas Devadas_.
 ## Intel SGX
 https://en.wikipedia.org/wiki/Software_Guard_Extensions
 
+### Educational Material
+Tutorials, wikis, etc.
+
+* [SGX Tutorial Series](https://software.intel.com/content/www/us/en/develop/articles/introducing-the-intel-software-guard-extensions-tutorial-series.html) by Intel
+* [SGX 101](https://sgx101.gitbook.io/sgx101/) by the Systems Software & Security Lab from Georgia Institute of Technology led by Prof. Taesoo Kim
+
 ### Literature
 * **Intel SGX Explained** ([pdf](https://eprint.iacr.org/eprint-bin/getfile.pl?entry=2016/086&version=20170221:054353&file=086.pdf)) -- https://eprint.iacr.org/2016/086/20170221:054353 
 * https://www.unboundtech.com/wp-content/uploads/2020/09/security-of-intelsgx-key-protection-data-privacy-apps.pdf
