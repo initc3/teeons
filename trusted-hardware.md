@@ -28,6 +28,9 @@ Tutorials, wikis, etc.
 * https://www.researchgate.net/publication/342833256_Towards_Formalization_of_Enhanced_Privacy_ID_EPID-based_Remote_Attestation_in_Intel_SG
 * [USENIX ATC '19 - Secured Routines: Language-based Construction of Trusted Execution Environments](https://youtu.be/Gl7ml_xTk94)
 
+* A curated list of system papers using/about Intel SGX: https://github.com/vschiavoni/sgx-papers
+* Reading list: http://ina.kaist.ac.kr/~dongsuh/SGXReadingList.html
+
 ### Attacks
 * **A Survey of Published Attacks on Intel SGX** ([pdf](https://arxiv.org/pdf/2006.13598.pdf))-- https://arxiv.org/abs/2006.13598
 * https://arstechnica.com/information-technology/2020/03/hackers-can-steal-secret-data-stored-in-intels-sgx-secure-enclave/
