@@ -28,6 +28,7 @@ Tutorials, wikis, etc.
 * https://www.researchgate.net/publication/342833256_Towards_Formalization_of_Enhanced_Privacy_ID_EPID-based_Remote_Attestation_in_Intel_SG
 * [USENIX ATC '19 - Secured Routines: Language-based Construction of Trusted Execution Environments](https://youtu.be/Gl7ml_xTk94)
 
+**Curated lists**
 * A curated list of system papers using/about Intel SGX: https://github.com/vschiavoni/sgx-papers
 * Reading list: http://ina.kaist.ac.kr/~dongsuh/SGXReadingList.html
 
