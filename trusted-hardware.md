@@ -38,6 +38,7 @@ Tutorials, wikis, etc.
 * https://lviattack.eu/ -- https://ieeexplore.ieee.org/document/9152763 (https://www.youtube.com/watch?v=99kVz-YGi6Y)
 * https://github.com/lsds/spectre-attack-sgx
 * https://news.hackreports.com/sgaxe-crosstalk-attacks-intel-sgx-vulnerability/
+* [PLATYPUS](https://platypusattack.com/)
 
 ### Production Uses
 **Signal Messaging Application**
