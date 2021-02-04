@@ -72,6 +72,10 @@ From https://software.intel.com/content/www/us/en/develop/download/intel-sgx-int
 * https://security.stackexchange.com/q/177506/235632
 * https://stackoverflow.com/q/55327467/2769475
 
+### Higher level abstractions/framework
+#### Occlum
+* https://github.com/occlum/occlum
+* https://arxiv.org/abs/2001.07450
 
 ## Keystone
 https://keystone-enclave.org/
