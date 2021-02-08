@@ -11,7 +11,18 @@ _Victor Costan and Srinivas Devadas_.
 
 ## Resources
 * [Open Source Enclaves Workshop](https://keystone-enclave.org/open-source-enclaves-workshop/)
+* [A Formal Foundation for Secure Remote Execution of Enclaves](https://eprint.iacr.org/2017/565)
 
+### Micro Architectural Cryptanalysis
+* [Revisiting Isolated and Trusted Execution via Microarchitectural Cryptanalysis](https://digital.wpi.edu/concern/etds/w9505326n)
+
+
+## OpenTitan
+https://opentitan.org/
+https://opensource.googleblog.com/2020/12/opentitan-at-one-year-open-source.html
+
+## Keystone
+https://keystone-enclave.org/
 
 ## Intel SGX
 https://en.wikipedia.org/wiki/Software_Guard_Extensions
@@ -77,10 +88,6 @@ From https://software.intel.com/content/www/us/en/develop/download/intel-sgx-int
 #### Occlum
 * https://github.com/occlum/occlum
 * https://arxiv.org/abs/2001.07450
-
-## Keystone
-https://keystone-enclave.org/
-
 
 ## The IBM 4765 Secure Coprocessor
 
