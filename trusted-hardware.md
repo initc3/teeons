@@ -39,7 +39,8 @@ Tutorials, wikis, etc.
 * https://github.com/lsds/spectre-attack-sgx
 * https://news.hackreports.com/sgaxe-crosstalk-attacks-intel-sgx-vulnerability/
 * [PLATYPUS](https://platypusattack.com/)
-
+* [VoltPillager](https://zt-chen.github.io/voltpillager/): Hardware undervolting attacks on Intel SGX with a $30 tool | [paper](https://www.usenix.org/conference/usenixsecurity21/presentation/chen-zitai) | [fosdem 2021 slides](https://fosdem.org/2021/schedule/event/tee_voltpillager/attachments/slides/4636/export/events/attachments/tee_voltpillager/slides/4636/20210117_ZitaiChen.pdf) | [PoC source code](https://github.com/zt-chen/voltpillager)
+ 
 ### Production Uses
 **Signal Messaging Application**
 * https://blog.cryptographyengineering.com/2020/07/10/a-few-thoughts-about-signals-secure-value-recovery/
