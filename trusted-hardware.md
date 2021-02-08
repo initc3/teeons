@@ -19,7 +19,8 @@ _Victor Costan and Srinivas Devadas_.
 
 ## OpenTitan
 https://opentitan.org/
-https://opensource.googleblog.com/2020/12/opentitan-at-one-year-open-source.html
+
+* https://opensource.googleblog.com/2020/12/opentitan-at-one-year-open-source.html
 
 ## Keystone
 https://keystone-enclave.org/
