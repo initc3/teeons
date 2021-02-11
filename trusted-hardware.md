@@ -90,6 +90,10 @@ From https://software.intel.com/content/www/us/en/develop/download/intel-sgx-int
 * https://github.com/occlum/occlum
 * https://arxiv.org/abs/2001.07450
 
+#### Applications (theoretical and/or practical)
+* [Concealer: SGX-based Secure, Volume Hiding, and Verifiable Processing of Spatial Time-Series Datasets](https://arxiv.org/abs/2102.05238)
+
+
 ## The IBM 4765 Secure Coprocessor
 
 ## ARM TrustZone
