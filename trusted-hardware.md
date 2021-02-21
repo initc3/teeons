@@ -16,6 +16,13 @@ _Victor Costan and Srinivas Devadas_.
 ### Micro Architectural Cryptanalysis
 * [Revisiting Isolated and Trusted Execution via Microarchitectural Cryptanalysis](https://digital.wpi.edu/concern/etds/w9505326n)
 
+### Frameworks & SDKs
+* [linux-sgx](https://github.com/intel/linux-sgx)
+* [openenclave](https://github.com/openenclave/openenclave)
+* [mystikos](https://github.com/deislabs/mystikos/)
+* [apache/rust-sgx-sdk](https://github.com/apache/incubator-teaclave-sgx-sdk)
+* [fortanix/rust-sgx](https://github.com/fortanix/rust-sgx)
+
 
 ## OpenTitan
 https://opentitan.org/
