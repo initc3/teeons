@@ -70,6 +70,9 @@ From https://software.intel.com/content/www/us/en/develop/download/intel-sgx-int
 
 ![](https://i.imgur.com/7pH7vOZ.png)
 
+#### DCAP
+https://software.intel.com/content/dam/develop/external/us/en/documents/s21c-icmc2019-intel-sgx-opensource-attestation.pdf
+
 ### Literature
 * https://software.intel.com/content/www/us/en/develop/download/intel-64-and-ia-32-architectures-sdm-volume-3d-system-programming-guide-part-4.html
 * https://software.intel.com/content/www/us/en/develop/articles/innovative-technology-for-cpu-based-attestation-and-sealing.html
