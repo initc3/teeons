@@ -115,6 +115,13 @@ See discussion on PoET in
 * https://blockonomi.com/proof-of-elapsed-time-consensus/
 * https://bitcoinexchangeguide.com/intels-poet-proof-of-elapsed-time-blockchain-consensus-algorithm/
 
+##### REM:Resource-EfficientMining for Blockchains
+https://eprint.iacr.org/2017/179.pdf
+
+> REM achieves security guarantees similar to PoW, but leverages the partially decentralized trustmodel inherent in SGX to achieve a fraction of the wasteof PoW. Its key idea, Proof-of-Useful-Work (PoUW), involves miners providing trustworthy reporting on CPU cycles they devote to inherently useful workloads. REM flexibly  allows any entity to create a useful workload. REM ensures the trustworthiness of these workloads by means of a novel scheme of hierarchical attestations that may be of independent interest.
+> 
+> To address the risk of compromised SGX CPUs, we develop a statistics-based formal security framework, also relevant to other trusted-hardware-based approaches such as Intel's Proof of Elapsed Time (PoET). We show through economic analysis that REM achieves less waste than PoET and variant schemes.
+
 #### SGX Problems & Limitations
 * https://medium.com/@maniacbolts/signal-increases-their-reliance-on-sgx-f46378f336d3
 * https://arxiv.org/abs/2006.13353
