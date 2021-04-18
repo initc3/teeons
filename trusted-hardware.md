@@ -23,6 +23,8 @@ _Victor Costan and Srinivas Devadas_.
 * [apache/rust-sgx-sdk](https://github.com/apache/incubator-teaclave-sgx-sdk)
 * [fortanix/rust-sgx](https://github.com/fortanix/rust-sgx)
 
+### Applications
+* Proof of Device: https://github.com/golemfactory/ProofOfDevice
 
 ## OpenTitan
 https://opentitan.org/
