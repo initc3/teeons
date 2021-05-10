@@ -126,7 +126,7 @@ https://eprint.iacr.org/2017/179.pdf
 * https://medium.com/@maniacbolts/signal-increases-their-reliance-on-sgx-f46378f336d3
 * https://arxiv.org/abs/2006.13353
 * https://signal.org/blog/private-contact-discovery/
-* https://arstechnica.com/information-technology/2020/06/new-exploits-plunder-crypto-keys-and-more-from-intels-ultrasecure-sgx/
+* [SGaxe](https://sgaxe.com/), https://arstechnica.com/information-technology/2020/06/new-exploits-plunder-crypto-keys-and-more-from-intels-ultrasecure-sgx/
 * https://arstechnica.com/information-technology/2020/03/hackers-can-steal-secret-data-stored-in-intels-sgx-secure-enclave/
 * https://ieeexplore.ieee.org/document/9152763
 * https://lviattack.eu/
