@@ -61,7 +61,7 @@ Tutorials, wikis, etc.
 * https://news.hackreports.com/sgaxe-crosstalk-attacks-intel-sgx-vulnerability/
 * [PLATYPUS](https://platypusattack.com/)
 * [VoltPillager](https://zt-chen.github.io/voltpillager/): Hardware undervolting attacks on Intel SGX with a $30 tool | [paper](https://www.usenix.org/conference/usenixsecurity21/presentation/chen-zitai) | [fosdem 2021 slides](https://fosdem.org/2021/schedule/event/tee_voltpillager/attachments/slides/4636/export/events/attachments/tee_voltpillager/slides/4636/20210117_ZitaiChen.pdf) | [PoC source code](https://github.com/zt-chen/voltpillager)
-* [SGaxe](https://sgaxe.com/)
+* [SGaxe](https://sgaxe.com/), [SGaxe slides](https://iacr.org/submit/files/slides/2021/rwc/rwc2021/74/slides.pdf), [SGaxe talk](https://youtu.be/kO-3Uh7tq60?t=1806)
  
 ### Production Uses
 **Signal Messaging Application**
