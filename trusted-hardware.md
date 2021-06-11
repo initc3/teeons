@@ -159,3 +159,6 @@ https://www.cs.umd.edu/~elaine/docs/phantom.pdf
 Uses Oblivious RAM techniques in the CPU's memory controller. See
 [Intel SGX Explained](https://eprint.iacr.org/2016/086/20170221:054353) by
 _Victor Costan and Srinivas Devadas_, section 4.10.
+
+## HSM & TEEs
+https://www.sciencedirect.com/science/article/pii/S0167404820301474
