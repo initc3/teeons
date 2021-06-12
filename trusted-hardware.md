@@ -166,4 +166,4 @@ _Victor Costan and Srinivas Devadas_, section 4.10.
 * https://www.cs.tau.ac.il/~tromer/istvr1516-files/lecture10-trusted-platform-sgx.pdf
 
 ### Hybrid models
-https://youtu.be/PescZy3QZTI
+[HSMs and Hardware Wallets: #Zcon2Lite](https://youtu.be/PescZy3QZTI?t=2190)
