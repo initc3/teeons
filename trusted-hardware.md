@@ -164,3 +164,6 @@ _Victor Costan and Srinivas Devadas_, section 4.10.
 * https://www.sciencedirect.com/science/article/pii/S0167404820301474
 * https://security.stackexchange.com/questions/209074/what-are-the-differences-between-hsm-and-se
 * https://www.cs.tau.ac.il/~tromer/istvr1516-files/lecture10-trusted-platform-sgx.pdf
+
+### Hybrid models
+https://youtu.be/PescZy3QZTI
