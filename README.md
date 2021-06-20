@@ -1,6 +1,11 @@
 # teeons
 Project to explore reproducible enclave builds, in the context of TEEs (Trusted Execution Environments).
 
+So far, in terms of implementation the focus has been on Intel SGX. Currently undergoing work is happening under the following repositories:
+
+* https://github.com/sbellem/auditee: Tool to verify the reproducibility of SGX enclave builds  
+* https://github.com/initc3/nix-sgx-sdk: Experimental nix derivation for Intel's SGX SDK
+
 ## Resources
 * https://reproducible-builds.org/
 * On why reproducible builds matter: https://reproducible-builds.org/docs/buy-in/
