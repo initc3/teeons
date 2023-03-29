@@ -17,6 +17,7 @@ So far, in terms of implementation the focus has been on Intel SGX. Currently un
 * [Nix + Bazel = fully reproducible, incremental builds](https://www.tweag.io/blog/2018-03-15-bazel-nix/)
 * [Implicit Dependencies in Build Systems](https://www.tweag.io/blog/2020-09-16-implicit-build-dependencies/)
 * Google asylo: https://github.com/google/asylo
+* https://medium.com/nttlabs/bit-for-bit-reproducible-builds-with-dockerfile-7cc2b9faed9f
 
 ### Nix
 * Nix: https://github.com/NixOS/nix and https://nixos.org/nix/
