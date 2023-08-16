@@ -23,6 +23,12 @@ So far, in terms of implementation the focus has been on Intel SGX. Currently un
 * Nix: https://github.com/NixOS/nix and https://nixos.org/nix/
 * [Nix Package Manager Guide](https://nixos.org/nix/manual/)
 
+### Guix
+* https://guix.gnu.org/en/blog/2023/from-development-environments-to-continuous-integrationthe-ultimate-guide-to-software-development-with-guix/
+
+### Bootstrappable Builds
+* https://bootstrappable.org/
+
 #### Getting Started
 From https://christine.website/blog/i-was-wrong-about-nix-2020-02-10:
 
